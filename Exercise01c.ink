@@ -117,9 +117,7 @@ You look around at the aged headstones which are worn but still withstanding the
 
 == headstones ==
 You crouch down to the first headstone in front of you and read the inscription: "Here lies<>
-{thing_name == "Will": Will B. Back} 
-{thing_name == "Dustin": Dustin Ashes} 
-{thing_name == "Hugh": Hugh Will Benext}. Beloved son, gone too soon." The dates on the headstone say that he was only 10 years old...
+{thing_name == "Will": Will B. Back}{thing_name == "Dustin": Dustin Ashes} {thing_name == "Hugh": Hugh Will Benext}. Beloved son, gone too soon." The dates on the headstone say that he was only 10 years old...
 ~ clues = clues + 1
 + [Go Back] -> Look_around1
 
