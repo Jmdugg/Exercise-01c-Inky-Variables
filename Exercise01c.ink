@@ -177,6 +177,8 @@ You go to the bottom of the slide and pick up what appears to be a Flashlight. O
 -> END
 
 
+
+
 == Check_clues ==
 {Lost_thing == "Ghost" and clues >= 1 and Clue_pickup: 1. Ectoplasm leading down the Right path}
 {Lost_thing == "Ghost" and clues >= 1 and headstones: 2. Headstone reading "{thing_name}". It couldn't be the Ghost "{thing_name}"...could it?}
